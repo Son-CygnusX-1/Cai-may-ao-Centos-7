@@ -7,7 +7,7 @@ Chuan bi: VMWare, centos7.iso
 
 Sau khi da cai dat xong VMWare va Tai dc file Iso cua he dieu hanh Centos 7. Ta mo pham me VMWare len
 
-![VMWare](https://github.com/Son-CygnusX-1/images/Cai-may-ao-Centos7/Image/1.png)
+![VMWare](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos7/Images/1.png)
 
 Sau do tro va click chuot vao Create a New Virtual Machine, sau do tro duong dan den file .iso cua Centos 7
-![Tro duong dan](https://github.com/Son-CygnusX-1/images/Cai-may-ao-Centos7/Image/2.png)
+![Tro duong dan](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos7/Images/2.png)
