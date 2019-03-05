@@ -40,29 +40,37 @@ VMware Workstation họat động bằng cách cho phép nhiều HĐH và các �
 *Chuẩn bị file .iso của hệ điều hành Centos 7 [link tải](http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1810.iso)*
 
 * Sau khi đã cài đặt xong VMWare và Tải được file Iso của hệ điều hành Centos 7. Ta mở phần mềm VMWare lên
+
 ![VMWare](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos-7/blob/master/Images/1.png)
 
 * Sau đó trỏ va click chuột vào Create a New Virtual Machine, sau đó trỏ đường dẫn đến file .iso cua Centos 7
+
 ![Tro duong dan](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos-7/blob/master/Images/2.png)
 
 * Chọn loại hệ điều hành
+
 ![Chon loai OS](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos-7/blob/master/Images/3.png)
 
 * Sau đó trỏ đến đườngng dẫn có thể cài đặt
+
 ![Chon duong dan](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos-7/blob/master/Images/4.png)
 
 * Chọn kích thước ổ đĩa cho OS
+
 ![Chon kich thuoc](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos-7/blob/master/Images/5.png)
 
 * Kết thúc xem lại cấu hình và finish để bắt đầu cài đặt
+
 ![Bat dau cai dat](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos-7/blob/master/Images/6.png)
 
 ![Man hinh cai dat](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos-7/blob/master/Images/7.png)
 
 * Kết thúc cấu hình, khởi động vào Centos 7
+
 ![Ket thuc cau hinh](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos-7/blob/master/Images/9.png)
 
 * Kiểm tra cấu hình
+
 ![Kiem tra cau hinh](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos-7/blob/master/Images/10.png)
 
 <a name ="Note"></a>
