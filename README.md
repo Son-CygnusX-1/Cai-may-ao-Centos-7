@@ -1,28 +1,28 @@
-#VMWare Workstation 15 Player
+#VMWare Workstation 15 Pro
 
-1. [Overvier](#Overview)
-2. [Install VMWare](https://websiteforstudents.com/how-to-install-vmware-workstation-pro-15-on-ubuntu-16-04-18-04-18-10/) 
+1. [Giới thiệu](#Overview)
+2. [Cài đặt VMWare](https://websiteforstudents.com/how-to-install-vmware-workstation-pro-15-on-ubuntu-16-04-18-04-18-10/) 
 3. [Khái quát cấu hình mở rộng của VMWare Workstation](#KhaiQuat)
 4. [Cấu hình và cài đặt Centos 7](#Config)
 5. [Tổng kết](#Note)
 
 <a name="Overview"></a>
-## Overview
+## Giới thiệu
 VMware Workstation là một phần mềm ảo hóa desktop mạnh mẽ dành cho các nhà phát triển/kiểm tra phần mềm và các chuyên gia IT cần chạy nhiều HĐH một lúc trên một máy PC. Người dùng có thểchạy các HĐH Windows, Linux, Netware hay Solaris x86 trên các máy ảo di động mà không cần phải khởi động lại hay phân vùng ổcứng. VMware Workstation cung cấp khảnăng hoạt động tuyệt vời và nhiều tính năng mới như tối ưu hóa bộ nhớ và khả năng quản lý các thiết lập nhiều lớp. Các tính năng thiết yếu như mạng ảo, chụp ảnh nhanh trực tiếp, kéo thả, chia sẻ thư mục và hỗ trợ PXE khiến VMware Workstation trở thành công cụ mạnh mẽ và không thể thiếu cho các nhà doanh nghiệp phát triển tin họcvà các nhà quản trị hệ thống.
 
 VMware Workstation họat động bằng cách cho phép nhiều HĐH và các ứng dụng của chúng chạy đồng thời trên một máy duy nhất. Các HĐH và ứng dụng này được tách ra vào trong các máy ảo. Những máy ảo này cùng tồn tại trên một phần cứng duy nhất. Các layer ảo của VMware sẽ kết nối các phần cứng vật lý với các máy ảo, do đó mỗi máy ảo sẽcó CPU, bộ nhớ, các ổ đĩa, thiết bị nhập/xuất riêng.
 
-### Tính năng cho người dùng:
-    * Thiết lập và thử nghiệm các ứng dụng đa lớp, cập nhật ứng dụng và các miếng vá cho HĐH chỉ trên một PC duy nhất.
-    * Dễ dàng phục hồi và chia sẻ các môi trường thử nghiệm được lưu trữ; giảm thiểu các thiết lập trùng lặp và thời gian thiết lập.
-    * Làm cho việc học tập trên máy tính thuận lợi hơn do sinh viên luôn đuợc sử dụng máy với tình trạng “sạch sẽ” và thử nghiệm với nhiều HĐH, ứng dụng cá các công cụ trên những máy ảo an toàn và độc lập.
-    * Chạy các bản demo phần mềm với các thiết lập phức tạp hoặc đa lớp trên một chiếc laptop.
-    * Tăng tốc độ giải quyết các rắc rối của người dùng cuối dựa trên một thư viện các máy ảo được thiết lập sẵn.
+### Tính năng cho người dùng
+* Thiết lập và thử nghiệm các ứng dụng đa lớp, cập nhật ứng dụng và các miếng vá cho HĐH chỉ trên một PC duy nhất.
+* Dễ dàng phục hồi và chia sẻ các môi trường thử nghiệm được lưu trữ; giảm thiểu các thiết lập trùng lặp và thời gian thiết lập.
+* Làm cho việc học tập trên máy tính thuận lợi hơn do sinh viên luôn đuợc sử dụng máy với tình trạng “sạch sẽ” và thử nghiệm với nhiều HĐH, ứng dụng cá các công cụ trên những máy ảo an toàn và độc lập.
+* Chạy các bản demo phần mềm với các thiết lập phức tạp hoặc đa lớp trên một chiếc laptop.
+* Tăng tốc độ giải quyết các rắc rối của người dùng cuối dựa trên một thư viện các máy ảo được thiết lập sẵn.
 
 <a name="KhaiQuat"></a>
 ## Khái quát cấu hình mở rộng của VMWare Workstation
 
-###Các hệ điều hành mới hỗ trợ VMware Workstation 15
+### Các hệ điều hành mới hỗ trợ VMware Workstation 15
 
 * Windows 10 1803
 * Ubuntu 18.04
