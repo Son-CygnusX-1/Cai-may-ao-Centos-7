@@ -1,4 +1,4 @@
-#VMWare Workstation 15 Pro
+# VMWare Workstation 15 Pro
 
 1. [Giới thiệu](#Overview)
 2. [Cài đặt VMWare](https://websiteforstudents.com/how-to-install-vmware-workstation-pro-15-on-ubuntu-16-04-18-04-18-10/) 
@@ -56,10 +56,12 @@ VMware Workstation họat động bằng cách cho phép nhiều HĐH và các �
 
 * Kết thúc xem lại cấu hình và finish để bắt đầu cài đặt
 ![Bat dau cai dat](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos-7/blob/master/Images/6.png)
+
 ![Man hinh cai dat](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos-7/blob/master/Images/7.png)
 
 * Kết thúc cấu hình, khởi động vào Centos 7
 ![Ket thuc cau hinh](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos-7/blob/master/Images/9.png)
+
 * Kiểm tra cấu hình
 ![Kiem tra cau hinh](https://github.com/Son-CygnusX-1/Cai-may-ao-Centos-7/blob/master/Images/10.png)
 
